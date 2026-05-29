@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingsalculate",
+        "uuid": 42261444,
+        "checksum": "7pvk7p"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
